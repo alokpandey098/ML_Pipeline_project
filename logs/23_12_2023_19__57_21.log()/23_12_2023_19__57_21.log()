@@ -1,0 +1,4 @@
+[2023-12-23 19:57:21,976] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-12-23 19:57:21,993] 96 werkzeug - INFO -  * Debugger PIN: 429-975-614
+[2023-12-23 19:57:28,024] 15 root - INFO - Error occured in python script name [C:\Data Science\ML_Pipeline\ML_Pipeline_project\app.py] line number [12] erro message [This is our second method of logging]
+[2023-12-23 19:57:28,025] 96 werkzeug - INFO - 127.0.0.1 - - [23/Dec/2023 19:57:28] "GET / HTTP/1.1" 200 -
